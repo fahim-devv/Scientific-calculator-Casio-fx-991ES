@@ -1,0 +1,2 @@
+# No external runtime dependencies required for core execution.
+# Built entirely using standard Tkinter engine layouts.
